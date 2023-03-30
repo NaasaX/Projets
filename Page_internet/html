@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>NSI</head>
+<meta charset="utf-8"/>
+
+<title>NSI Boutet de Monvel</title>
+
+<body>
+    
+<h2>NSI = Numérique Science informatique</h2>
+<h3>Mots clé</h3>
+<ul>
+<li>Données</li>
+<li>Algorithmes</li>
+<li>Languages</li>
+<li>Machines</li>
+</ul>
+
+<h3>Thèmes du programme de permière</h3>
+<ol>
+<li>Représentation des données : types et valeurs de base</li>
+<li>Représentation des donnéees : types construits</li>
+<li>Traitement de données en table</li>
+<li>Intercations entre l'homme et la machine sur le Web</li>
+<li>Architectures matérielles et sysèmes d'xploitation</li>
+<li>Langages et systèmes d'exploitation</li>
+<li>Algorithmique</li>
+</ol>
+
+<h3>Horaires classe de première</h3>
+
+<table>
+<tr><td>Classe entière</td><td>2H</td></tr>
+<tr><td>Groupe</td><td>2H</td></tr>
+<tr><td>Total</td><td>4H</td></tr>
+</table>
+
+<br/>Cours disponible sur moodle <a href="https://lyc-boutet-de-monvel.monbureaunumerique.fr/">Mon Bureau Numérique Boutet</a>
+
+<form>
+<label for="txt">Login :</label>
+<input type="text" name="txt" id="txt"/>
+
+<label for="txt">Mot de passe :</label>
+<input type="password" name="mdp" id="txt"></br>
+<input type="checkbox" name="case" id="case" />
+<label for="case">Je suis un élève</>
+</form> 
+
+
+<img src="image.jpeg" alt="texte" title="texte"/>
+
+</body>
+
